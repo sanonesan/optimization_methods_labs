@@ -1,0 +1,13 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {\hbox to 0pt{\hss }{{\textbf {1.\ }}}}{{\textbf {\ignorespaces {Лабораторная работа \textnumero 6}}}}}{3}{section*.1}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{1.1.\ }}}{\ignorespaces {Постановка задачи}}}{3}{section*.2}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{1.2.\ }}}{\ignorespaces {Тестовые примеры и результаты расчетов}}}{4}{section*.3}%
+\contentsline {section}{\numberline {\hbox to 0pt{\hss }{{\textbf {2.\ }}}}{{\textbf {\ignorespaces {Лабораторная работа \textnumero 7}}}}}{5}{section*.5}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{2.1.\ }}}{\ignorespaces {Постановка задачи}}}{5}{section*.6}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{2.2.\ }}}{\ignorespaces {Тестовые примеры и результаты расчетов}}}{6}{section*.7}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{2.3.\ }}}{\ignorespaces {Выводы}}}{9}{section*.15}%
+\contentsline {section}{\numberline {\hbox to 0pt{\hss }{{\textbf {3.\ }}}}{{\textbf {\ignorespaces {Лабораторная работа \textnumero 8}}}}}{10}{section*.16}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{3.1.\ }}}{\ignorespaces {Постановка задачи}}}{10}{section*.17}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{3.2.\ }}}{\ignorespaces {Тестовые примеры и результаты расчетов}}}{11}{section*.18}%
+\contentsline {subsection}{\numberline {\hbox to 0pt{\hss }{{3.3.\ }}}{\ignorespaces {Выводы}}}{19}{section*.33}%
+\contentsline {section}{\textbf {\ignorespaces {Список использованных источников}}}{20}{section*.34}%

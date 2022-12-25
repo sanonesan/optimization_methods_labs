@@ -1,0 +1,18 @@
+\begin{tabular}{|c|c|c|c|c|}
+\toprule
+                                    Входные данные & Точка минимума функции &  Значение функции в точке минимума &  Количество итераций &  Количество вычислений функции \\
+\midrule
+Квадратичная функция\textbackslash n Метод покоординатного сп... &          [-0.0, -2.23] &                              -45.0 &                    5 &                            508 \\
+Квадратичная функция\textbackslash n Метод Хука-Дживса\textbackslash n \$\textbackslash va... &          [-0.0, -2.24] &                              -45.0 &                   20 &                            131 \\
+Квадратичная функция\textbackslash n Метод Розенброка\textbackslash n \$\textbackslash var... &          [-0.0, -2.24] &                              -45.0 &                    4 &                            232 \\
+Квадратичная функция\textbackslash n Метод покоординатного сп... &          [-0.0, -2.23] &                              -45.0 &                    7 &                            684 \\
+Квадратичная функция\textbackslash n Метод Хука-Дживса\textbackslash n \$\textbackslash va... &          [-0.0, -2.24] &                              -45.0 &                   20 &                            129 \\
+Квадратичная функция\textbackslash n Метод Розенброка\textbackslash n \$\textbackslash var... &           [0.0, -2.24] &                              -45.0 &                    4 &                            232 \\
+Квадратичная функция\textbackslash n Метод покоординатного сп... &          [-0.0, -2.23] &                              -45.0 &                    9 &                            871 \\
+Квадратичная функция\textbackslash n Метод Хука-Дживса\textbackslash n \$\textbackslash va... &          [-0.0, -2.24] &                              -45.0 &                   24 &                            299 \\
+Квадратичная функция\textbackslash n Метод Розенброка\textbackslash n \$\textbackslash var... &          [-0.0, -2.24] &                              -45.0 &                    7 &                            406 \\
+Квадратичная функция\textbackslash n Метод покоординатного сп... &          [-0.0, -2.23] &                              -45.0 &                   10 &                            958 \\
+Квадратичная функция\textbackslash n Метод Хука-Дживса\textbackslash n \$\textbackslash va... &          [-0.0, -2.24] &                              -45.0 &                   25 &                            351 \\
+Квадратичная функция\textbackslash n Метод Розенброка\textbackslash n \$\textbackslash var... &           [0.0, -2.24] &                              -45.0 &                   11 &                            638 \\
+\bottomrule
+\end{tabular}
